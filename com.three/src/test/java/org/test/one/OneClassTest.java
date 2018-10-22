@@ -1,5 +1,7 @@
 package org.test.one;
 
 public class OneClassTest {
-fgdfg
+public static void main(String[] args){
+	
+}
 }
